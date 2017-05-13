@@ -1,0 +1,8 @@
+d:
+cd pythonproject
+
+django_admin startproject my_blog
+
+cd my_blog
+
+python manage.py startapp article
